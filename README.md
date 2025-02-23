@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- Currently studing in Peking University, majoring in math.
+- Know nothing about coding except LaTeX.
+- Use Github as a tool for editing my personal website.
+
 <!--
 **Dale-X-Lee/Dale-X-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
